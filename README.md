@@ -6,7 +6,7 @@
 
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
@@ -18,16 +18,6 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/adityadees?style=social)](https://www.github.com/adityadees)
-[![Twitter Follow](https://img.shields.io/twitter/follow/adityadees?style=social)](https://www.twitter.com/adityadees)
-[![Linkedin Badge](https://img.shields.io/badge/-adityadees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityadees/)](https://www.linkedin.com/in/adityadees/)
-[![Instagram Badge](https://img.shields.io/badge/-adityadees-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adityadees/)](https://www.instagram.com/adityadees/)
-[![ACADEMIA Badge](https://img.shields.io/badge/-adityadees-yellow?style=flat-square&logo=Academia&logoColor=white&link=https://independent.academia.edu/adityadees)](https://independent.academia.edu/adityadees)
-[![Facebook Badge](https://img.shields.io/badge/-adityadees-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialadityadees)](https://www.facebook.com/officialadityadees)
-[![Medium Badge](https://img.shields.io/badge/-adityadees-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@adityadees)](https://medium.com/@adityadees)
-[![Telegram Badge](https://img.shields.io/badge/-adityadees-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@adityadees)](https://telegram.org/@adityadees)
-[![Sourcerer Badge](https://img.shields.io/badge/-adityadees-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/adityadees)](https://sourcerer.io/adityadees)
-[![Website Badge](https://img.shields.io/badge/-adityadees-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://adityadees.com)](http://www.adityadees.com/)
 
 <br/>
 <br/>
@@ -86,8 +76,7 @@
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://www.adityadees.com">
 		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
@@ -107,9 +96,29 @@
 	<a href="https://youtube.com/c/adityadees">
 		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Youtube&logoColor=white"/>
 	</a>
-	<a href="https://facebook.com/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+	<a href="https://facebook.com/ds.aditya">
+		<img src="https://img.shields.io/badge/-Aditya Dees-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 	</a>
+	<a href="https://twitter.com/adityadees">
+		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Twitter&logoColor=white"/>
+	</a>
+	<a href="https://medium.com/@adityadees">
+		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Medium&logoColor=white"/>
+	</a>
+	<a href="https://independent.academia.edu/adityadees">
+		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Academia&logoColor=white"/>
+	</a>
+	<a href="https://www.linkedin.com/in/adityadees/">
+		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Linkedin&logoColor=white"/>
+	</a>
+	<a href="https://www.twitter.com/adityadees">
+		<img src="https://img.shields.io/twitter/follow/adityadees?style=social"/>
+	</a>
+	<a href="https://www.github.com/adityadees">
+		<img src="https://img.shields.io/github/followers/adityadees?style=social"/>
+	</a>
+
+
 </p>
 
 
