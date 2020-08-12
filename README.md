@@ -100,6 +100,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
+<p>
 - ⚙️ &nbsp; Others<br>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
@@ -115,7 +116,7 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://www.adityadees.com">
+	<a href="https://adityadees.blogspot.com">
 		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
 	<a href="https://linkedin.com/in/adityadees">
