@@ -31,7 +31,7 @@
 <br/>
 <br/>  
 
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+[![Write into my guest book](https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
 <br/>
 </div>
 
@@ -109,10 +109,10 @@
 		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Academia&logoColor=white"/>
 	</a>
 	<a href="https://www.twitter.com/adityadees">
-		<img src="https://img.shields.io/twitter/follow/adityadees?style=flat-square&logo=Academia&logoColor=white"/>
+		<img src="https://img.shields.io/twitter/follow/adityadees?style=flat-square&logo=Twitter&logoColor=white"/>
 	</a>
 	<a href="https://www.github.com/adityadees">
-		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Academia&logoColor=white"/>
+		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 
 
