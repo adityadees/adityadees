@@ -56,16 +56,13 @@
 		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
 	<a href="https://stackoverflow.com/users/7590238/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=stackoverflow&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-@adityadees-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/>
 	</a>
 	<a href="https://youtube.com/c/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Youtube&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-@adityadees-C11A21?style=flat-square&logo=Youtube&logoColor=white"/>
 	</a>
 	<a href="https://facebook.com/ds.aditya">
-		<img src="https://img.shields.io/badge/-Aditya Dees-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
-	</a>
-	<a href="https://twitter.com/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Twitter&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-Aditya Dees-3A5894?style=flat-square&logo=Facebook&logoColor=white"/>
 	</a>
 	<a href="https://medium.com/@adityadees">
 		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Medium&logoColor=white"/>
