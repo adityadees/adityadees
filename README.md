@@ -31,7 +31,7 @@
 			<td rowspan="5">
 			<p align="center">
 				<a href="https://github.com/adityadees">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadees&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadees&theme=vue&layout=compact" />
 				</a>
 				</p>
 			</td>
@@ -58,7 +58,7 @@
 			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/adityadees">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadees&theme=vue&layout=compact" />
+					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadees&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
 					</a>
 				</p>
 			</td>
