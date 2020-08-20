@@ -82,14 +82,6 @@
 	</tbody>
 </table>
 
-<p align="center">
-	<a href="https://github.com/adityadees">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadees&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadees&theme=vue&layout=compact" />
-	</a>
-</p>
-
-
 <h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://adityadees.blogspot.com">
