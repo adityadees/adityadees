@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
 - 💬 Ask me about **vue, php**
-- 📫 How to reach me **adityadees@gmail.com**
+- 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
 
 <br/>
 <br/>
