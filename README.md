@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://github.com/scafol) and Sritech.
+- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://github.com/scafol) and [SRITECH](https://github.com/Sriwijaya-Techno)
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
 - 💬 Ask me about **vue, php**
