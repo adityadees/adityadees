@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Dharmawan Saputra</h1>  
+<h1 align="center">Hi Guys 👋, I'm Aditya Dharmawan Saputra</h1>  
 
 <h3 align="center">Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.</h3>
 
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://github.com/scafol) and [SRITECH](https://github.com/Sriwijaya-Techno)
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **vue, php**
+- 💬 Ask me about **PHP, VUE**
 - 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
 
 <br/>
