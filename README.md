@@ -178,7 +178,7 @@
 	<tr>
 		<th colspan="2">
 			<p>
-				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadees&" alt="adityadees" />
+				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadees&theme=ads-juicy-fresh" alt="adityadees" />
 			</p>
 			<details>
 				<summary>GitHub Profile Stats</summary>
