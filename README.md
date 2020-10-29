@@ -34,9 +34,19 @@
 	</tr>
 	<tr>
 		<th>
-			<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=adityadees&show_icons=true&locale=en" alt="adityadees" />
-			<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadees&show_icons=true&locale=en&layout=compact" alt="adityadees" />
-			<img align="center" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadees&" alt="adityadees" />
+			<p>
+				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadees&" alt="adityadees" />
+			</p>
+			<details>
+				<summary>GitHub Profile Stats</summary>
+				<br/>
+				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=adityadees&show_icons=true&locale=en" alt="adityadees" />
+			</details>
+			<details>
+				<summary>Most Used Languages</summary>
+				<br/>
+				<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadees&show_icons=true&locale=en&layout=compact" alt="adityadees" />
+			</details>
 		</th>
 	</tr>
 	<tr>
@@ -124,17 +134,17 @@
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
-  <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA"><img width="140px" src="https://i.ytimg.com/vi/sP2GQpx1uWA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA">Kalimba Peterpan Yang Terdalam</a><br/>Jul 13, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE"><img width="140px" src="https://i.ytimg.com/vi/3oeJ1bbpyOE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE">Kalimba Cover Bagaikan Langit</a><br/>Apr 30, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=26Sq5Pz1zX0"><img width="140px" src="https://i.ytimg.com/vi/26Sq5Pz1zX0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=26Sq5Pz1zX0">Ost Harvest Moon Nanana Kalimba Cover</a><br/>Mar 17, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw"><img width="140px" src="https://i.ytimg.com/vi/JQn0J_j0mjw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw">KALIMBA Cover - IBU PERTIWI</a><br/>Jan 4, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo"><img width="140px" src="https://i.ytimg.com/vi/rMfyiLSaOOo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo">Virtual Social Library (VSL) - Inovasi Kekinian</a><br/>Dec 2, 2019</td></tr>
-<!-- YOUTUBE:END -->
-	</tbody>
-</table>
+	<tbody>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA"><img width="140px" src="https://i.ytimg.com/vi/sP2GQpx1uWA/mqdefault.jpg"></a></td>
+			<td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA">Kalimba Peterpan Yang Terdalam</a><br/>Jul 13, 2020</td></tr>
+			<tr><td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE"><img width="140px" src="https://i.ytimg.com/vi/3oeJ1bbpyOE/mqdefault.jpg"></a></td>
+				<td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE">Kalimba Cover Bagaikan Langit</a><br/>Apr 30, 2020</td></tr>
+				<tr><td><a href="https://www.youtube.com/watch?v=26Sq5Pz1zX0"><img width="140px" src="https://i.ytimg.com/vi/26Sq5Pz1zX0/mqdefault.jpg"></a></td>
+					<td><a href="https://www.youtube.com/watch?v=26Sq5Pz1zX0">Ost Harvest Moon Nanana Kalimba Cover</a><br/>Mar 17, 2020</td></tr>
+					<tr><td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw"><img width="140px" src="https://i.ytimg.com/vi/JQn0J_j0mjw/mqdefault.jpg"></a></td>
+						<td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw">KALIMBA Cover - IBU PERTIWI</a><br/>Jan 4, 2020</td></tr>
+						<tr><td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo"><img width="140px" src="https://i.ytimg.com/vi/rMfyiLSaOOo/mqdefault.jpg"></a></td>
+							<td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo">Virtual Social Library (VSL) - Inovasi Kekinian</a><br/>Dec 2, 2019</td></tr>
+							<!-- YOUTUBE:END -->
+						</tbody>
+					</table>
