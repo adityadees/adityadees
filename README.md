@@ -121,3 +121,11 @@
 - [aframe register componet add onclick attribute](https://stackoverflow.com/questions/61807274/aframe-register-componet-add-onclick-attribute)
 - [Retrive data from jquery to pass it into a-frame](https://stackoverflow.com/questions/61805643/retrive-data-from-jquery-to-pass-it-into-a-frame)
 <!-- STACKOVERFLOW:END -->
+
+#  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
+<table>
+  <tbody>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+	</tbody>
+</table>
