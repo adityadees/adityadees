@@ -104,7 +104,7 @@
 	<a href="https://www.buymeacoffee.com/adityadees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="adityadees" /></a>
 </p>
 
-# Blog posts
+# Blog posts By [@AdityaDees](http://adityadees.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
 - [Udemy Free Course 16 Desember 2020](https://adityadees.blogspot.com/2020/12/udemy-free-course-16-desember-2020.html)
 - [Udemy Free Course 14 Desember 2020 PART III](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part_98.html)
