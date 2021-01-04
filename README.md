@@ -44,7 +44,7 @@
 	</tr>
 	<tr>
 		<th>
-			<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadees&column=5&margin-w=15&margin-h=15&theme=monokai"/></a> </p>
+			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adityadees&column=5&margin-w=15&margin-h=15&theme=monokai"/> </p>
 		</th>
 	</tr>
 </table>
