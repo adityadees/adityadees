@@ -103,3 +103,7 @@
 	<br>
 	<a href="https://www.buymeacoffee.com/adityadees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"  alt="adityadees" /></a>
 </p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
