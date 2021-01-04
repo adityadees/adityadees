@@ -115,9 +115,9 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by AdityaDees for make buttons in javascript](https://stackoverflow.com/questions/65560118/make-buttons-in-javascript/65560549#65560549)
 - [Answer by AdityaDees for which database layout would better for a login system?](https://stackoverflow.com/questions/64781967/which-database-layout-would-better-for-a-login-system/64782200#64782200)
 - [Answer by AdityaDees for I am trying to update data through query using PHP but no change in data in DB](https://stackoverflow.com/questions/63371813/i-am-trying-to-update-data-through-query-using-php-but-no-change-in-data-in-db/63372199#63372199)
 - [aframe register componet add onclick attribute](https://stackoverflow.com/questions/61807274/aframe-register-componet-add-onclick-attribute)
 - [Retrive data from jquery to pass it into a-frame](https://stackoverflow.com/questions/61805643/retrive-data-from-jquery-to-pass-it-into-a-frame)
-- [blur and stretch animation aframe](https://stackoverflow.com/questions/61699956/blur-and-stretch-animation-aframe)
 <!-- STACKOVERFLOW:END -->
