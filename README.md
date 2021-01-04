@@ -106,4 +106,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Udemy Free Course 16 Desember 2020](https://adityadees.blogspot.com/2020/12/udemy-free-course-16-desember-2020.html)
+- [Udemy Free Course 14 Desember 2020 PART III](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part_98.html)
+- [Udemy Free Course 14 Desember 2020 PART II](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part_14.html)
+- [Udemy Free Course 14 Desember 2020 PART I](https://adityadees.blogspot.com/2020/12/udemy-free-course-14-desember-2020-part.html)
+- [Udemy Free Course 13 Desember 2020 PART III](https://adityadees.blogspot.com/2020/12/udemy-free-course-13-desember-2020-part_2.html)
 <!-- BLOG-POST-LIST:END -->
