@@ -197,7 +197,7 @@
 	</tr>
 	<tr>
 		<th colspan="2">
-			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adityadees&column=7&margin-w=15&margin-h=15&theme=adsJuicyFresh"/> </p>
+			<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=adityadees&column=7&margin-w=15&margin-h=15&theme=juicyfresh"/> </p>
 		</th>
 	</tr>
 </table>
