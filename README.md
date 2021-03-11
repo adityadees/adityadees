@@ -268,11 +268,11 @@
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [looping foreach return duplicate data](https://stackoverflow.com/questions/66589765/looping-foreach-return-duplicate-data)
 - [Answer by AdityaDees for HTML / Javascript display images from user input checkboxes](https://stackoverflow.com/questions/65659336/html-javascript-display-images-from-user-input-checkboxes/65662183#65662183)
 - [Filter multiple value from multi array](https://stackoverflow.com/questions/65606925/filter-multiple-value-from-multi-array)
 - [Answer by AdityaDees for make buttons in javascript](https://stackoverflow.com/questions/65560118/make-buttons-in-javascript/65560549#65560549)
 - [Answer by AdityaDees for which database layout would better for a login system?](https://stackoverflow.com/questions/64781967/which-database-layout-would-better-for-a-login-system/64782200#64782200)
-- [Answer by AdityaDees for I am trying to update data through query using PHP but no change in data in DB](https://stackoverflow.com/questions/63371813/i-am-trying-to-update-data-through-query-using-php-but-no-change-in-data-in-db/63372199#63372199)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
