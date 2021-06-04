@@ -268,11 +268,11 @@
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [Answer by AdityaDees for Front end <button> refuses to redirect to another page](https://stackoverflow.com/questions/67831039/front-end-button-refuses-to-redirect-to-another-page/67831350#67831350)
 - [Answer by AdityaDees for Isuuse in creating database ,user and assing in cpanel through uapi,api2,api1](https://stackoverflow.com/questions/67816827/isuuse-in-creating-database-user-and-assing-in-cpanel-through-uapi-api2-api1/67817555#67817555)
 - [looping foreach return duplicate data](https://stackoverflow.com/questions/66589765/looping-foreach-return-duplicate-data)
 - [Answer by AdityaDees for HTML / Javascript display images from user input checkboxes](https://stackoverflow.com/questions/65659336/html-javascript-display-images-from-user-input-checkboxes/65662183#65662183)
 - [Filter multiple value from multi array](https://stackoverflow.com/questions/65606925/filter-multiple-value-from-multi-array)
-- [Answer by AdityaDees for make buttons in javascript](https://stackoverflow.com/questions/65560118/make-buttons-in-javascript/65560549#65560549)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
