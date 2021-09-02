@@ -3,6 +3,13 @@
 	A passionate fullstack developer from Indonesia<br>
 	Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
 </h3>
+<div align="center">
+    <img width="49%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/input.jpg" alt="Input picture"/>
+    <img width="49%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.jpg" alt="Output picture"/>
+    <img width="98%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.gif" alt="Output GIF"/>
+</div>
+<p>Hello guys, I want you to participate with my repo, you need to click star button in this repo, and your github avatar will automatically become part of the mosaic image.</p>
+<br>
 
 <h3> 👨 &nbsp;About Me </h3>
 
