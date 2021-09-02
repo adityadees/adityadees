@@ -1,0 +1,28 @@
+name: schedule_build
+
+on:
+  repository_dispatch:
+    types: [build-event]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  schedule_build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "Setup Python"
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: "Install packages"
+        run: pip install -r requirements.txt
+      - name: "Build image"
+        run: python main.py
+      - name: "Commit images to adityadees"
+        run: |
+            git config user.name 'adityads-github-actions[bot]'
+            git config user.email 'adityads-github-actions[bot]@users.noreply.github.com'
+            git add .
+            git commit -m ":robot: Build auto" || true
+            git push
