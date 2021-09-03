@@ -11,6 +11,8 @@
 
 _Hello guys, I want you to participate with my repo, you need to click star button in [this repo](https://github.com/adityadees/adityadees), and your github avatar will automatically become part of the mosaic image._
 
+Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTICS.md) to see how much your photo was used to create this image. 
+
 <br>
 
 <h3> 👨 &nbsp;About Me </h3>
