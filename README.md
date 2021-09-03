@@ -8,7 +8,9 @@
     <img width="49%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.jpg" alt="Output picture"/>
     <img width="98%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.gif" alt="Output GIF"/>
 </div>
-<p>Hello guys, I want you to participate with my repo, you need to click star button in this repo, and your github avatar will automatically become part of the mosaic image.</p>
+
+_Hello guys, I want you to participate with my repo, you need to click star button in [this repo](https://github.com/adityadees/adityadees), and your github avatar will automatically become part of the mosaic image._
+
 <br>
 
 <h3> 👨 &nbsp;About Me </h3>
