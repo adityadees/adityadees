@@ -22,7 +22,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 - 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/) and [SRITECH](https://github.com/Sriwijaya-Techno)
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **PHP, VUE**
+- 💬 Ask me about **PHP, DART, VUE, CODEIGNITER, LARAVEL, FLUTTER**
 - 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
 
 <br/>
