@@ -22,7 +22,8 @@ jobs:
         run: |
             git config user.name 'adityads-github-actions[bot]'
             git config user.email 'adityads-github-actions[bot]@users.noreply.github.com'
-            git pull origin master -r
+            git reset --hard
+            git pull
             git add .
             git commit -m ":robot: Build auto" || true
             git push
