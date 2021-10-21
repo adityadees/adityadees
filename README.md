@@ -278,7 +278,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
-- [Answer by AdityaDees for MySQL Insert After Select](https://stackoverflow.com/questions/69667465/mysql-insert-after-select/69667534#69667534)
+- [Answer by AdityaDees for MySQL Union After Select](https://stackoverflow.com/questions/69667465/mysql-union-after-select/69667534#69667534)
 - [Answer by AdityaDees for CSS transition is not working, it was working before](https://stackoverflow.com/questions/69655923/css-transition-is-not-working-it-was-working-before/69656744#69656744)
 - [Answer by AdityaDees for Set grid columns always be 100%](https://stackoverflow.com/questions/69655470/set-grid-columns-always-be-100/69655703#69655703)
 - [Answer by AdityaDees for How to retrieve google sheet api v4 data into JSON format](https://stackoverflow.com/questions/67241767/how-to-retrieve-google-sheet-api-v4-data-into-json-format/69626857#69626857)
