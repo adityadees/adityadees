@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [Answer by AdityaDees for How to show values of input type="date" when user focus out from input if some value entered](https://stackoverflow.com/questions/69688910/how-to-show-values-of-input-type-date-when-user-focus-out-from-input-if-some-v/69689067#69689067)
 - [Answer by AdityaDees for MySQL Union After Select](https://stackoverflow.com/questions/69667465/mysql-union-after-select/69667534#69667534)
 - [Answer by AdityaDees for CSS transition is not working, it was working before](https://stackoverflow.com/questions/69655923/css-transition-is-not-working-it-was-working-before/69656744#69656744)
 - [Answer by AdityaDees for Set grid columns always be 100%](https://stackoverflow.com/questions/69655470/set-grid-columns-always-be-100/69655703#69655703)
 - [Answer by AdityaDees for How to retrieve google sheet api v4 data into JSON format](https://stackoverflow.com/questions/67241767/how-to-retrieve-google-sheet-api-v4-data-into-json-format/69626857#69626857)
-- [Answer by AdityaDees for HTML Form Validation Logic in JavaScript or jQuery](https://stackoverflow.com/questions/67830920/html-form-validation-logic-in-javascript-or-jquery/67831613#67831613)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
