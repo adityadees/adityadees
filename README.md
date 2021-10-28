@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [Answer by AdityaDees for PHP how to combine array and create new array](https://stackoverflow.com/questions/69758449/php-how-to-combine-array-and-create-new-array/69758731#69758731)
 - [Answer by AdityaDees for How to solve Uncaught TypeError: Cannot set properties of null (setting 'innerHTML') at printTime when trying to show current time with JS and html](https://stackoverflow.com/questions/69700482/how-to-solve-uncaught-typeerror-cannot-set-properties-of-null-setting-innerht/69700528#69700528)
 - [Answer by AdityaDees for Table rowspan and colspan](https://stackoverflow.com/questions/69698474/table-rowspan-and-colspan/69699727#69699727)
 - [Answer by AdityaDees for How can I switch elements based on selection?](https://stackoverflow.com/questions/69699458/how-can-i-switch-elements-based-on-selection/69699528#69699528)
 - [Answer by AdityaDees for How to show values of input type="date" when user focus out from input if some value entered](https://stackoverflow.com/questions/69688910/how-to-show-values-of-input-type-date-when-user-focus-out-from-input-if-some-v/69689067#69689067)
-- [Answer by AdityaDees for MySQL Union After Select](https://stackoverflow.com/questions/69667465/mysql-union-after-select/69667534#69667534)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
