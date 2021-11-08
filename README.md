@@ -297,7 +297,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <tr><td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw"><img width="140px" src="https://i.ytimg.com/vi/JQn0J_j0mjw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JQn0J_j0mjw">KALIMBA Cover - IBU PERTIWI</a><br/>Jan 4, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo"><img width="140px" src="https://i.ytimg.com/vi/rMfyiLSaOOo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo">Virtual Social Library (VSL) - Inovasi Kekinian</a><br/>Dec 2, 2019</td></tr>
+<td><a href="https://www.youtube.com/watch?v=rMfyiLSaOOo">Virtual Social Library &lpar;VSL&rpar; - Inovasi Kekinian</a><br/>Dec 2, 2019</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
