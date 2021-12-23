@@ -278,7 +278,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
-- [SET DEFAULT VALUE MYSQL JOIN INTERVAL MONTH YEAR [closed]](https://stackoverflow.com/questions/70466598/set-default-value-mysql-join-interval-month-year)
+- [How to set default value from mysql join interval yearmonth](https://stackoverflow.com/questions/70466733/how-to-set-default-value-from-mysql-join-interval-yearmonth)
 - [Answer by AdityaDees for Php needed to order divs depending on percentage obtained](https://stackoverflow.com/questions/69819768/php-needed-to-order-divs-depending-on-percentage-obtained/69819893#69819893)
 - [Answer by AdityaDees for PHP how to combine array and create new array](https://stackoverflow.com/questions/69758449/php-how-to-combine-array-and-create-new-array/69758731#69758731)
 - [Answer by AdityaDees for How to solve Uncaught TypeError: Cannot set properties of null &lpar;setting &#39;innerHTML&#39;&rpar; at printTime when trying to show current time with JS and html](https://stackoverflow.com/questions/69700482/how-to-solve-uncaught-typeerror-cannot-set-properties-of-null-setting-innerht/69700528#69700528)
