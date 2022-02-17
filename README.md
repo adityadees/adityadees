@@ -288,7 +288,9 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
 	<tbody>
-		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=fxFHVOivvgQ"><img width="140px" src="https://i.ytimg.com/vi/fxFHVOivvgQ/mqdefault.jpg"></a></td>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=gSPOAtxCuXs"><img width="140px" src="https://i.ytimg.com/vi/gSPOAtxCuXs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gSPOAtxCuXs">Day 2 - Learning Inline Skate &lpar;Hari kedua belajar sepatu roda&rpar;</a><br/>Feb 17, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=fxFHVOivvgQ"><img width="140px" src="https://i.ytimg.com/vi/fxFHVOivvgQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fxFHVOivvgQ">Day 1 - Learning Inline Skate &lpar;Hari pertama Belajar Sepatu Roda&rpar;</a><br/>Feb 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eNDAh0n6_VE"><img width="140px" src="https://i.ytimg.com/vi/eNDAh0n6_VE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eNDAh0n6_VE">Viral lihat ending nya tutorial Bermain Sepatu Roda Inline Skate</a><br/>Jan 24, 2022</td></tr>
@@ -296,8 +298,6 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <td><a href="https://www.youtube.com/watch?v=9Aj3m3dZEjI">TIKTOK BUG &quot;SOUND REMOVED&quot;</a><br/>Jan 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA"><img width="140px" src="https://i.ytimg.com/vi/sP2GQpx1uWA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sP2GQpx1uWA">Kalimba Peterpan Yang Terdalam</a><br/>Jul 13, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE"><img width="140px" src="https://i.ytimg.com/vi/3oeJ1bbpyOE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3oeJ1bbpyOE">Kalimba Cover Bagaikan Langit</a><br/>Apr 30, 2020</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
