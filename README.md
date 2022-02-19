@@ -288,7 +288,9 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
 	<tbody>
-		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=-2QqDOx6e1U"><img width="140px" src="https://i.ytimg.com/vi/-2QqDOx6e1U/mqdefault.jpg"></a></td>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=GP9SDS6DMCA"><img width="140px" src="https://i.ytimg.com/vi/GP9SDS6DMCA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GP9SDS6DMCA">Day 3 - Learning Inline Skate &lpar;Hari ketiga part 2 belajar sepatu roda&rpar;</a><br/>Feb 19, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-2QqDOx6e1U"><img width="140px" src="https://i.ytimg.com/vi/-2QqDOx6e1U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-2QqDOx6e1U">Day 3 - Learning Inline Skate &lpar;Hari ketiga belajar sepatu roda&rpar;</a><br/>Feb 18, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gSPOAtxCuXs"><img width="140px" src="https://i.ytimg.com/vi/gSPOAtxCuXs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gSPOAtxCuXs">Day 2 - Learning Inline Skate &lpar;Hari kedua belajar sepatu roda&rpar;</a><br/>Feb 17, 2022</td></tr>
@@ -296,8 +298,6 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <td><a href="https://www.youtube.com/watch?v=fxFHVOivvgQ">Day 1 - Learning Inline Skate &lpar;Hari pertama Belajar Sepatu Roda&rpar;</a><br/>Feb 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eNDAh0n6_VE"><img width="140px" src="https://i.ytimg.com/vi/eNDAh0n6_VE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eNDAh0n6_VE">Viral lihat ending nya tutorial Bermain Sepatu Roda Inline Skate</a><br/>Jan 24, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9Aj3m3dZEjI"><img width="140px" src="https://i.ytimg.com/vi/9Aj3m3dZEjI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Aj3m3dZEjI">TIKTOK BUG &quot;SOUND REMOVED&quot;</a><br/>Jan 16, 2022</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
