@@ -269,11 +269,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # Blog posts By [@AdityaDees](http://adityadees.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Cara Membuat Controller Dengan Laravel](https://adityadees.blogspot.com/2022/03/membuat-controller-dengan-laravel.html)
 - [Bagaimana Cara Merubah Tampilan Uc Browser Supaya Menjadi Keren](https://adityadees.blogspot.com/2022/02/ask-cara-merubah-tampilan-uc-browser.html)
+- [Mengenal C++ dan Sejarah C++ Secara Lengkap](https://adityadees.blogspot.com/2022/02/mengenal-c-dan-sejarah-c-secara-lengkap.html)
 - [Ask Hero Push Turret Terbaik di Mobile Legends AdityaDees](https://adityadees.blogspot.com/2022/02/ask-hero-push-turret-terbaik-mobile.html)
-- [Memasang Vue Router di Laravel](https://adityadees.blogspot.com/2022/01/memasang-vue-router-di-laravel.html)
-- [Ask Belajar GraphQL, Serta Contoh Implementasinya di Golang AdityaDees](https://adityadees.blogspot.com/2022/01/ask-belajar-graphql-serta-contoh.html)
-- [Tutorial Integrasi Vue 3,  Vite dan Unlayer -- part 1](https://adityadees.blogspot.com/2022/01/integrasi-vue-3-vite-unlayer-bagian-1.html)
+- [Ini Kelebihan Bahasa C dan Juga Kekurangannya Dibandingkan Bahasa Pemrograman Lain](https://adityadees.blogspot.com/2022/02/ini-kelebihan-bahasa-c-dan-juga.html)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
