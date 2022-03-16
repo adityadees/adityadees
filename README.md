@@ -271,9 +271,9 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <!-- BLOG-POST-LIST:START -->
 - [Cara Membuat Controller Dengan Laravel](https://adityadees.blogspot.com/2022/03/membuat-controller-dengan-laravel.html)
 - [Bagaimana Cara Merubah Tampilan Uc Browser Supaya Menjadi Keren](https://adityadees.blogspot.com/2022/02/ask-cara-merubah-tampilan-uc-browser.html)
-- [Mengenal C++ dan Sejarah C++ Secara Lengkap](https://adityadees.blogspot.com/2022/02/mengenal-c-dan-sejarah-c-secara-lengkap.html)
+- [Mengenal Bahasa Pemrograman C++ dan Sejarah C++ Secara Lengkap](https://adityadees.blogspot.com/2022/02/mengenal-c-dan-sejarah-c-secara-lengkap.html)
 - [Ask Hero Push Turret Terbaik di Mobile Legends AdityaDees](https://adityadees.blogspot.com/2022/02/ask-hero-push-turret-terbaik-mobile.html)
-- [Ini Kelebihan Bahasa C dan Juga Kekurangannya Dibandingkan Bahasa Pemrograman Lain](https://adityadees.blogspot.com/2022/02/ini-kelebihan-bahasa-c-dan-juga.html)
+- [Kelebihan dan Kekurangan Bahasa C](https://adityadees.blogspot.com/2022/02/ini-kelebihan-bahasa-c-dan-juga.html)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
