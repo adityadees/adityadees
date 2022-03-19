@@ -269,11 +269,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # Blog posts By [@AdityaDees](http://adityadees.blogspot.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Ask 7 Rekomendasi Ponsel 5G Terbaik 2022](https://adityadees.blogspot.com/2022/03/7-rekomendasi-ponsel-5g-terbaik-2022.html)
 - [Ask Bola Panas Metaverse dan NFT  Oleh Pengembang Game](https://adityadees.blogspot.com/2022/03/ask-bola-panas-metaverse-dan-nft-oleh.html)
+- [5 Smartphone Xiaomi Terbaru](https://adityadees.blogspot.com/2022/03/5-smartphone-xiaomi-terbaru.html)
 - [Ask Pasar NFT Neon, Luncurkan Mesin Jual NFT Otomatis](https://adityadees.blogspot.com/2022/03/ask-pasar-nft-neon-luncurkan-mesin-jual.html)
-- [Ask Rencana Huobi Masuk Kembali, Fokus Manajemen Aset  AdityaDees](https://adityadees.blogspot.com/2022/03/ask-rencana-huobi-masuk-kembali-fokus.html)
-- [Ask Akankah Cryptocurrency Bisa Jadi Sistem Keuangan Masa Depan?](https://adityadees.blogspot.com/2022/03/ask-akankah-cryptocurrency-bisa-jadi.html)
-- [Ask Pasar NFT Video Besutan Youtube](https://adityadees.blogspot.com/2022/03/ask-pasar-nft-video-besutan-youtube.html)
+- [Bahasa Pemrograman Komputer dan Tingkatannya](https://adityadees.blogspot.com/2022/03/bahasa-pemrograman-komputer-dan.html)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
