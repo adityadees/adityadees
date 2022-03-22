@@ -272,8 +272,8 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 - [Ask 7 Rekomendasi Ponsel 5G Terbaik 2022](https://adityadees.blogspot.com/2022/03/7-rekomendasi-ponsel-5g-terbaik-2022.html)
 - [Ask Bola Panas Metaverse dan NFT  Oleh Pengembang Game](https://adityadees.blogspot.com/2022/03/ask-bola-panas-metaverse-dan-nft-oleh.html)
 - [5 Smartphone Xiaomi Terbaru](https://adityadees.blogspot.com/2022/03/5-smartphone-xiaomi-terbaru.html)
+- [Ask Cara Menggunakan Rumus VLOOKUP Excel AdityaDees](https://adityadees.blogspot.com/2022/03/ask-cara-menggunakan-rumus-vlookup.html)
 - [Ask Pasar NFT Neon, Luncurkan Mesin Jual NFT Otomatis](https://adityadees.blogspot.com/2022/03/ask-pasar-nft-neon-luncurkan-mesin-jual.html)
-- [Bahasa Pemrograman Komputer dan Tingkatannya](https://adityadees.blogspot.com/2022/03/bahasa-pemrograman-komputer-dan.html)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
