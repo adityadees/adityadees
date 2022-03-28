@@ -289,7 +289,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <table>
 	<tbody>
 		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zYzX7PjRFtc"><img width="140px" src="https://i.ytimg.com/vi/zYzX7PjRFtc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zYzX7PjRFtc">Day 8 - Learning Inline Skate &lpar;Hari ketujuh part 3 belajar sepatu roda&rpar;</a><br/>Mar 28, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=zYzX7PjRFtc">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 3 belajar sepatu roda&rpar;</a><br/>Mar 28, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cRBngq8VyJc"><img width="140px" src="https://i.ytimg.com/vi/cRBngq8VyJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cRBngq8VyJc">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 2 belajar sepatu roda&rpar;</a><br/>Mar 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WzONHR5U_Fs"><img width="140px" src="https://i.ytimg.com/vi/WzONHR5U_Fs/mqdefault.jpg"></a></td>
