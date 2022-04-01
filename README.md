@@ -288,7 +288,9 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
 	<tbody>
-		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=VzcLgrez_Ik"><img width="140px" src="https://i.ytimg.com/vi/VzcLgrez_Ik/mqdefault.jpg"></a></td>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=vZNhHTjfCDY"><img width="140px" src="https://i.ytimg.com/vi/vZNhHTjfCDY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vZNhHTjfCDY">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 5 belajar sepatu roda&rpar;</a><br/>Apr 1, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=VzcLgrez_Ik"><img width="140px" src="https://i.ytimg.com/vi/VzcLgrez_Ik/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VzcLgrez_Ik">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 4 belajar sepatu roda&rpar;</a><br/>Mar 30, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zYzX7PjRFtc"><img width="140px" src="https://i.ytimg.com/vi/zYzX7PjRFtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zYzX7PjRFtc">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 3 belajar sepatu roda&rpar;</a><br/>Mar 28, 2022</td></tr>
@@ -296,8 +298,6 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 <td><a href="https://www.youtube.com/watch?v=cRBngq8VyJc">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 2 belajar sepatu roda&rpar;</a><br/>Mar 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WzONHR5U_Fs"><img width="140px" src="https://i.ytimg.com/vi/WzONHR5U_Fs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WzONHR5U_Fs">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 1 belajar sepatu roda&rpar;</a><br/>Mar 24, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=jTYhDJLMTb4"><img width="140px" src="https://i.ytimg.com/vi/jTYhDJLMTb4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jTYhDJLMTb4">Day 7 - Learning Inline Skate &lpar;Hari ketujuh part 9 belajar sepatu roda&rpar;</a><br/>Mar 22, 2022</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
