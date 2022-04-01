@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [Goutte scraping google ppa php](https://stackoverflow.com/questions/71706862/goutte-scraping-google-ppa-php)
 - [Answer by AdityaDees for How to Give less priority Bootstrap CSS](https://stackoverflow.com/questions/71553766/how-to-give-less-priority-bootstrap-css/71553814#71553814)
 - [Answer by AdityaDees for How to remove duplicate MySQL records &lpar;but only leave one&rpar;](https://stackoverflow.com/questions/71490841/how-to-remove-duplicate-mysql-records-but-only-leave-one/71490973#71490973)
 - [go exec command to many open files](https://stackoverflow.com/questions/71462519/go-exec-command-to-many-open-files)
 - [Answer by AdityaDees for Table fixed header and scrollable body](https://stackoverflow.com/questions/21168521/table-fixed-header-and-scrollable-body/71291701#71291701)
-- [Avoid mutiple dynamic Quotes onclick](https://stackoverflow.com/questions/71260622/avoid-mutiple-dynamic-quotes-onclick)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
