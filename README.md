@@ -278,7 +278,7 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
-- [Quotes utf 8 not rendering on html](https://stackoverflow.com/questions/72385664/quotes-utf-8-not-rendering-on-html)
+- [Quotes utf 8 not rendering on html [duplicate]](https://stackoverflow.com/questions/72385664/quotes-utf-8-not-rendering-on-html)
 - [Answer by AdityaDees for .htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url/72372802#72372802)
 - [.htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url)
 - [Goutte scraping google ppa php](https://stackoverflow.com/questions/71706862/goutte-scraping-google-ppa-php)
