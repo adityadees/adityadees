@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [Quotes utf 8 not rendering on html](https://stackoverflow.com/questions/72385664/quotes-utf-8-not-rendering-on-html)
 - [Answer by AdityaDees for .htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url/72372802#72372802)
 - [.htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url)
 - [Goutte scraping google ppa php](https://stackoverflow.com/questions/71706862/goutte-scraping-google-ppa-php)
 - [Answer by AdityaDees for How to Give less priority Bootstrap CSS](https://stackoverflow.com/questions/71553766/how-to-give-less-priority-bootstrap-css/71553814#71553814)
-- [Answer by AdityaDees for How to remove duplicate MySQL records &lpar;but only leave one&rpar;](https://stackoverflow.com/questions/71490841/how-to-remove-duplicate-mysql-records-but-only-leave-one/71490973#71490973)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
