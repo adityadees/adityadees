@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [TOC Heading not working if heading not clear](https://stackoverflow.com/questions/72562254/toc-heading-not-working-if-heading-not-clear)
 - [Override nova route](https://stackoverflow.com/questions/72489886/override-nova-route)
 - [Quotes utf 8 not rendering on html [duplicate]](https://stackoverflow.com/questions/72385664/quotes-utf-8-not-rendering-on-html)
 - [Answer by AdityaDees for .htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url/72372802#72372802)
 - [.htaccess rewrite conditon after spesific url](https://stackoverflow.com/questions/72371109/htaccess-rewrite-conditon-after-spesific-url)
-- [Goutte scraping google ppa php](https://stackoverflow.com/questions/71706862/goutte-scraping-google-ppa-php)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
