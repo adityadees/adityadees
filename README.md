@@ -278,11 +278,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
+- [chartjs add space betwen stacked bar](https://stackoverflow.com/questions/73400348/chartjs-add-space-betwen-stacked-bar)
 - [Answer by AdityaDees for Why in console age is coming as undefined](https://stackoverflow.com/questions/73351934/why-in-console-age-is-coming-as-undefined/73351976#73351976)
 - [Answer by AdityaDees for Angular setup with nginx cannot hit the api](https://stackoverflow.com/questions/73244941/angular-setup-with-nginx-cannot-hit-the-api/73262093#73262093)
 - [Angular setup with nginx cannot hit the api](https://stackoverflow.com/questions/73244941/angular-setup-with-nginx-cannot-hit-the-api)
 - [TOC Heading not working if heading not clear](https://stackoverflow.com/questions/72562254/toc-heading-not-working-if-heading-not-clear)
-- [Override nova route](https://stackoverflow.com/questions/72489886/override-nova-route)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
