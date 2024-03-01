@@ -6,15 +6,14 @@ on:
   workflow_dispatch:
 permissions:
   contents: write 
+  
 jobs:
   update-readme-with-stack-overflow:
     name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull stackoverflow posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
