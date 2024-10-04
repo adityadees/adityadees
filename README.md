@@ -279,10 +279,10 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 # StackOverflow Activity By [@AdityaDees](https://stackoverflow.com/users/7590238/adityadees)
 <!-- STACKOVERFLOW:START -->
 - [Answer by AdityaDees for How $this-&gt;app-&gt;singleton&lpar;&rpar; works in laravel?](https://stackoverflow.com/questions/62870556/how-this-app-singleton-works-in-laravel/78531839#78531839)
-- [Answer by AdityaDees for How to pass an Object as a prop in Vue js?](https://stackoverflow.com/questions/76814911/how-to-pass-an-object-as-a-prop-in-vue-js/76815124#76815124)
-- [Answer by AdityaDees for iterate through object calculate total number value in nested object](https://stackoverflow.com/questions/76815057/iterate-through-object-calculate-total-number-value-in-nested-object/76815105#76815105)
-- [Answer by AdityaDees for Handle errors on firebase auth](https://stackoverflow.com/questions/76815061/handle-errors-on-firebase-auth/76815092#76815092)
-- [Answer by AdityaDees for Bad CPU type in executable : error pop up when run flutter commands](https://stackoverflow.com/questions/76808648/bad-cpu-type-in-executable-error-pop-up-when-run-flutter-commands/76813373#76813373)
+- [Answer by AdityaDees for I want to store the session value in search box of appTables using jquery](https://stackoverflow.com/questions/76813184/i-want-to-store-the-session-value-in-search-box-of-apptables-using-jquery/76813303#76813303)
+- [Laravel Relationship Model nested relation table](https://stackoverflow.com/questions/75508499/laravel-relationship-model-nested-relation-table)
+- [chartjs add space betwen stacked bar](https://stackoverflow.com/questions/73400348/chartjs-add-space-betwen-stacked-bar)
+- [Answer by AdityaDees for Why in console age is coming as undefined](https://stackoverflow.com/questions/73351934/why-in-console-age-is-coming-as-undefined/73351976#73351976)
 <!-- STACKOVERFLOW:END -->
 
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
