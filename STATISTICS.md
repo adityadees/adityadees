@@ -7,9 +7,9 @@
 |#3|[@R1zarD9K](https://github.com/R1zarD9K)|1004|
 |#4|[@feliciaberliana15](https://github.com/feliciaberliana15)|914|
 |#5|[@Vanodra](https://github.com/Vanodra)|759|
-|#6|[@aditiapratiwi](https://github.com/aditiapratiwi)|310|
-|#7|[@pujilesmana](https://github.com/pujilesmana)|217|
-|#8|[@zikrikn](https://github.com/zikrikn)|167|
+|#6|[@aditiapratiwi](https://github.com/aditiapratiwi)|312|
+|#7|[@pujilesmana](https://github.com/pujilesmana)|214|
+|#8|[@zikrikn](https://github.com/zikrikn)|168|
 |#9|[@ladaposamuel](https://github.com/ladaposamuel)|106|
 |#10|[@PKIT-dev](https://github.com/PKIT-dev)|105|
 |#11|[@shaffan94](https://github.com/shaffan94)|59|
