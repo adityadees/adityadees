@@ -19,11 +19,11 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/), [SRITECH](https://github.com/Sriwijaya-Techno) and [NICHESTACK](https://nichestack.io/)
+- 💼 &nbsp; Working as a Fullstack Developer
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
 - 💬 Ask me about **PHP, DART, VUE, CODEIGNITER, LARAVEL, FLUTTER**
-- 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
+- 📫 How to reach me **adityadees@gmail.com**
 
 <br/>
 <br/>
