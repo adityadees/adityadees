@@ -290,14 +290,14 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 	<tbody>
 		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_e7HLnka95g"><img width="140px" src="https://i.ytimg.com/vi/_e7HLnka95g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_e7HLnka95g">Trisuaka dan Zidan kena Somasi 1M sama Andhika Zidan Bikin Geram Netizen</a><br/>Apr 25, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/qDvauruAyB8"><img width="140px" src="https://i.ytimg.com/vi/qDvauruAyB8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/qDvauruAyB8">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 15 belajar sepatu roda&rpar;</a><br/>Apr 21, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/8LU4UuzeuVI"><img width="140px" src="https://i.ytimg.com/vi/8LU4UuzeuVI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/8LU4UuzeuVI">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 14 belajar sepatu roda&rpar;</a><br/>Apr 19, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/UJrZnZzmplM"><img width="140px" src="https://i.ytimg.com/vi/UJrZnZzmplM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/UJrZnZzmplM">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 13 belajar sepatu roda&rpar;</a><br/>Apr 17, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/w_3o34UhQdo"><img width="140px" src="https://i.ytimg.com/vi/w_3o34UhQdo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/w_3o34UhQdo">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 12 belajar sepatu roda&rpar;</a><br/>Apr 15, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qDvauruAyB8"><img width="140px" src="https://i.ytimg.com/vi/qDvauruAyB8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qDvauruAyB8">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 15 belajar sepatu roda&rpar;</a><br/>Apr 21, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=8LU4UuzeuVI"><img width="140px" src="https://i.ytimg.com/vi/8LU4UuzeuVI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8LU4UuzeuVI">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 14 belajar sepatu roda&rpar;</a><br/>Apr 19, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=UJrZnZzmplM"><img width="140px" src="https://i.ytimg.com/vi/UJrZnZzmplM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UJrZnZzmplM">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 13 belajar sepatu roda&rpar;</a><br/>Apr 17, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=w_3o34UhQdo"><img width="140px" src="https://i.ytimg.com/vi/w_3o34UhQdo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=w_3o34UhQdo">Day 8 - Learning Inline Skate &lpar;Hari kedelapan part 12 belajar sepatu roda&rpar;</a><br/>Apr 15, 2022</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
