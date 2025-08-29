@@ -288,16 +288,16 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
 	<tbody>
-		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/yW4BgyV8OAA"><img width="140px" src="https://i.ytimg.com/vi/yW4BgyV8OAA/mqdefault.jpg"></a></td>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/Ox2gNfkwBJQ"><img width="140px" src="https://i.ytimg.com/vi/Ox2gNfkwBJQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Ox2gNfkwBJQ">Demo Terparah sepanjang sejarah Indonesia Merdeka demo makassar dunia</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/RGtildrOgqY"><img width="140px" src="https://i.ytimg.com/vi/RGtildrOgqY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/RGtildrOgqY">demo palembang</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/yW4BgyV8OAA"><img width="140px" src="https://i.ytimg.com/vi/yW4BgyV8OAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/yW4BgyV8OAA">demo magelang</a><br/>Aug 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/QR4dhoPTumY"><img width="140px" src="https://i.ytimg.com/vi/QR4dhoPTumY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/QR4dhoPTumY">jurnalis asing Al Jazeera  #demodpr2025 #democore #demo #indonesia #dprri #DPR #dprd</a><br/>Aug 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/AyM-DwWNNm4"><img width="140px" src="https://i.ytimg.com/vi/AyM-DwWNNm4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/AyM-DwWNNm4">Demo Makasar</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/bNLfKjxk1aU"><img width="140px" src="https://i.ytimg.com/vi/bNLfKjxk1aU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/bNLfKjxk1aU">POV awal mula brimob di hadang</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/ikp6xfFK9zo"><img width="140px" src="https://i.ytimg.com/vi/ikp6xfFK9zo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ikp6xfFK9zo">pov lain ojol di gilas</a><br/>Aug 29, 2025</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
