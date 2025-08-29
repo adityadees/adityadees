@@ -288,16 +288,16 @@ Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTIC
 #  Latest YouTube Videos By [@AdityaDees](https://www.youtube.com/c/adityadees)
 <table>
 	<tbody>
-		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/ikp6xfFK9zo"><img width="140px" src="https://i.ytimg.com/vi/ikp6xfFK9zo/mqdefault.jpg"></a></td>
+		<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/yW4BgyV8OAA"><img width="140px" src="https://i.ytimg.com/vi/yW4BgyV8OAA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/yW4BgyV8OAA">demo magelang</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/QR4dhoPTumY"><img width="140px" src="https://i.ytimg.com/vi/QR4dhoPTumY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/QR4dhoPTumY">jurnalis asing Al Jazeera  #demodpr2025 #democore #demo #indonesia #dprri #DPR #dprd</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/AyM-DwWNNm4"><img width="140px" src="https://i.ytimg.com/vi/AyM-DwWNNm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/AyM-DwWNNm4">Demo Makasar</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/bNLfKjxk1aU"><img width="140px" src="https://i.ytimg.com/vi/bNLfKjxk1aU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/bNLfKjxk1aU">POV awal mula brimob di hadang</a><br/>Aug 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/ikp6xfFK9zo"><img width="140px" src="https://i.ytimg.com/vi/ikp6xfFK9zo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ikp6xfFK9zo">pov lain ojol di gilas</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/eUOtXvv-nkM"><img width="140px" src="https://i.ytimg.com/vi/eUOtXvv-nkM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eUOtXvv-nkM">asrama brimob vibes 1998</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/mCoAkobqpsY"><img width="140px" src="https://i.ytimg.com/vi/mCoAkobqpsY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/mCoAkobqpsY">polda diy</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/07MivCSHg00"><img width="140px" src="https://i.ytimg.com/vi/07MivCSHg00/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/07MivCSHg00">Abis ojol sekarang mahasiswa#demodpr2025</a><br/>Aug 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/gLS8Il3amtg"><img width="140px" src="https://i.ytimg.com/vi/gLS8Il3amtg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/gLS8Il3amtg">Bandung Lautan APi</a><br/>Aug 29, 2025</td></tr>
 <!-- YOUTUBE:END -->
 						</tbody>
 					</table>
